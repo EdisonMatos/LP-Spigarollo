@@ -366,7 +366,7 @@ const content = {
           alt: `Foto do Instagram do ${infos.name}`,
         },
         miniTag: "REDES SOCIAIS",
-        title: "Acompanhe mutias novidades e atualizações!",
+        title: "Acompanhe muitas novidades e atualizações!",
         subtitle:
           "⚖️ Fique por dentro do mundo jurídico seguindo a Dra. Gabriela Marchetti Spigarollo nas redes sociais!",
         paragraph: (
