@@ -266,9 +266,9 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Fashion Law",
+        title: "Direito Condominial",
         subtitle:
-          "Proteção e orientação legal para marcas e criadores no universo da moda.",
+          "Assessoria e soluções jurídicas para questões condominiais, garantindo harmonia e conformidade.",
         description: (
           <div>
             <br />
@@ -318,7 +318,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório",
       },
-      miniTag: "QUEM É A DRA GABRIELA SPIGAROLLO",
+      miniTag: "QUEM É A DRA GABRIELA MARCHETTI",
       title: "Minha trajetória",
       subtitle:
         "Especialista em Direito Civil, de Família, Imobiliário e Processo Civil, com pós-graduação pela UEL e LEGALE.",
@@ -368,7 +368,7 @@ const content = {
         miniTag: "REDES SOCIAIS",
         title: "Acompanhe mutias novidades e atualizações!",
         subtitle:
-          "⚖️ Fique por dentro do mundo jurídico seguindo a Dra. Gabriela Spigarollo nas redes sociais!",
+          "⚖️ Fique por dentro do mundo jurídico seguindo a Dra. Gabriela Marchetti Spigarollo nas redes sociais!",
         paragraph: (
           <p>
             Acompanhe nossas postagens e mantenha-se atualizado sobre Direito
